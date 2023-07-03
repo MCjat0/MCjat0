@@ -1,4 +1,6 @@
-### Hi there, I´m Tobias and I´m looking forward to improve my coding skills! 👋
+### Hi, I´m Tobias and I´m continously trying to improve my coding skills! 👋
+
+For now I´m working on some React and Next projects with Typescript.
 
 <!--
 
